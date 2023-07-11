@@ -15,10 +15,6 @@ import com.ms.email.enums.StatusEmail;
 
 import lombok.Data;
 
-
-
-
-
 @Data
 @Entity
 @Table(name = "TB_EMAIL")
